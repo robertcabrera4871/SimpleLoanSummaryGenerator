@@ -1,0 +1,23 @@
+{
+	"LoanAmountSummary": {
+		"Sum": 504220272,
+		"Avg": 504220.27,
+		"Median": 332648,
+		"Min": 100069,
+		"Max": 999539
+	},
+	"SubjectAppraisedAmountSummary": {
+		"Sum": 1004087165,
+		"Avg": 1004087.17,
+		"Median": 1936177,
+		"Min": 1001519,
+		"Max": 999176
+	},
+	"InterestRateSummary": {
+		"Sum": 3504.06,
+		"Avg": 3.5,
+		"Median": 5.28,
+		"Min": 2,
+		"Max": 4.99
+	}
+}
